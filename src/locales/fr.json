@@ -1,5 +1,8 @@
 {
   "plus": "Plus",
   "minus": "Moins",
-  "reset": "Réinitialiser"
+  "reset": "Réinitialiser",
+  "resetInitial": "Réinitialiser à l'initiale",
+  "selectLocale": "Choisir la langue",
+  "currentCount": "Compte actuel"
 }

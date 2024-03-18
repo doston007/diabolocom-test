@@ -38,8 +38,20 @@ npm run build
 npm run test:unit
 ```
 
+### Run E2E Tests with [Cypress](https://docs.cypress.io/)
+
+```sh
+npm run test:e2e
+```
+
 ### Lint with [ESLint](https://eslint.org/)
 
 ```sh
 npm run lint
 ```
+
+### Integrating the web-components into the HTML codebase.
+
+Create `*.html` file in `/nested` folder then add `script` tag linked to `src/main.ts`.
+
+All web-components with i18n must be used inside `<i18n-host>` element.

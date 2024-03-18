@@ -1,5 +1,8 @@
 {
   "plus": "Plus",
   "minus": "Minus",
-  "reset": "Reset"
+  "reset": "Reset",
+  "resetInitial": "Reset to initial",
+  "selectLocale": "Select language",
+  "currentCount": "Current count"
 }
